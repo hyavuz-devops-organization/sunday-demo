@@ -1,0 +1,2 @@
+# sunday-demo
+minikube mongodb
